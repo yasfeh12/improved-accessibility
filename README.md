@@ -1,11 +1,10 @@
-# improved-accessibility
-improving accessibility is essential for companies to try reach everyone equally regardless of any disabilities. in this task i am adding Semantic HTML elements to ensure the final product follows a logical structure independent of styling and positioning. As a marketing agency its imperative to have codebase that follows accessibility standards to ensure a wide reach without any discrimination and to have a site is optimized for search engines.
+# Improved-accessibility
+
+## Improving accessibility is essential for companies to try reach everyone equally regardless of any disabilities. In this task I am adding Semantic HTML such as header, nav , aside and footer elements to ensure the final product follows a logical structure independent of styling and positioning. this makes it easier to understand for both humans and machines .As a marketing agency its imperative to have codebase that follows accessibility standards to ensure a wide reach without any discrimination and to have a site which is optimized for search engines. I have improved accesibility added and optimised the page for search engines byadding a clear and relevent page title and image discriptions using the alt element. 
 
 i did this by adding : a clear page name in the title element an alt attributes to EVERY Image and icon elements to improve acessability removed any unnessesary code to help sustainability of the project for any future work. concise, descriptive title in ALL title elements.
 
-MIT License
-
-Copyright (c) [2023] [Yaseen Fehad]
+Copyright (c) 2023 Yaseen Fehad
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -76,3 +75,6 @@ This Code of Conduct is adapted from the Contributor Covenant, version 2.1, avai
 Community Impact Guidelines were inspired by Mozilla's code of conduct enforcement ladder.
 
 For answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations.
+
+to test or improve the project please download directly from github : https://github.com/yasfeh12/improved-accessibility
+any feedback is appriciated at Yaseenfehad@gmail.com 
